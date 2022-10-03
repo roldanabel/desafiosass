@@ -1,0 +1,35 @@
+body {
+  background-color: #dff4f4;
+  font-family: 'Courier New', Courier, monospace; }
+
+header h1 {
+  text-align: center;
+  color: #610861; }
+
+header .img {
+  text-align: center; }
+  header .img img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: white 5px solid; }
+    header .img img:hover {
+      border: #bc1717 5px solid; }
+
+main .subt {
+  padding: 30px;
+  text-align: center;
+  color: #bc1717; }
+
+main div .compatible {
+  padding: 10px; }
+  main div .compatible h3 {
+    color: #bc1717;
+    text-align: center; }
+  main div .compatible p {
+    color: #6d0606; }
+
+footer {
+  padding: 10px;
+  text-align: center;
+  color: #610861; }
